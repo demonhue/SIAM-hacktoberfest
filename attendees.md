@@ -1,4 +1,4 @@
-Name - Email id
+Abhishek Name - Email id
 Aryan Karn - karnaryan253@gmail.com
 SHUBHAM KUMAR - shubhamkumargupta786@gmail.com
 Ishal Garg - ishalgarg2001@gmail.com
@@ -20,3 +20,4 @@ Deep Ralhan - deep.ralhan26@gmail.com
 Sudhanshu Rawat - sr363298@gmail.com
 Kashish Garg - kashish.18je0404@ee.iitism.ac.in
 Aayush Ahuja - aayu.16je002440@am.ism.ac.in
+Abhishek Anand - abhishekmalviya309@gmail.com
