@@ -1,4 +1,4 @@
-Abhishek Name - Email id
+Name - Email id
 Aryan Karn - karnaryan253@gmail.com
 SHUBHAM KUMAR - shubhamkumargupta786@gmail.com
 Ishal Garg - ishalgarg2001@gmail.com
